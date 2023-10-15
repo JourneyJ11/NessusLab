@@ -3,7 +3,7 @@
  ### 
 
 <h2>Description</h2>
-
+This tutorial provides a step-by-step guide for setting up a lab environment, performing vulnerability scans, and understanding the basics of Nessus Vulnerability Management.
 <br />
 
 
@@ -14,24 +14,34 @@
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-- <b></b> 
+- <b>Windows 10</b> (21H2) 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating a Windows 10 Virtual Machine: <br/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
-: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Performing Your First Vulnerability Scan: <br/>
+<img src="https://i.imgur.com/NaAtYo6.png" height="80%" width="80%" alt="."/>
+<img src="https://i.imgur.com/uVHoiSU.png" height="80%" width="80%" alt="."/>
 <br />
 <br />
-: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install an outdated version of Firefox on the Windows 10 virtual machine: <br/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
+Perform a Nessus rescan to check if Nessus can detect this vulnerable software.: <br/>
+<img src="https://i.imgur.com/ptnxURv.png" height="80%" width="80%" alt="."/>
+<br />
+<br />
+Perform a Nessus rescan to check if Nessus can detect this vulnerable software.: <br/>
+<img src="https://i.imgur.com/MVxkQ0s.png" height="80%" width="80%" alt="."/>
+<br />
+<br />
+
+
 
 </p>
 
