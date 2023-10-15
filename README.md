@@ -19,11 +19,11 @@ This tutorial provides a step-by-step guide for setting up a lab environment, pe
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating a Windows 10 Virtual Machine: <br/>
+Create a Windows 10 Virtual Machine: <br/>
 <img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
-Performing Your First Vulnerability Scan: <br/>
+Perform Your First Vulnerability Scan: <br/>
 <img src="https://i.imgur.com/NaAtYo6.png" height="80%" width="80%" alt="."/>
 <img src="https://i.imgur.com/uVHoiSU.png" height="80%" width="80%" alt="."/>
 <br />
@@ -36,7 +36,7 @@ Perform a Nessus rescan to check if Nessus can detect this vulnerable software.:
 <img src="https://i.imgur.com/ptnxURv.png" height="80%" width="80%" alt="."/>
 <br />
 <br />
-Perform a Nessus rescan to check if Nessus can detect this vulnerable software.: <br/>
+Perform a final Nessus rescan after Windows Update: <br/>
 <img src="https://i.imgur.com/MVxkQ0s.png" height="80%" width="80%" alt="."/>
 <br />
 <br />
