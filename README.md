@@ -20,8 +20,17 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating Users with PowerShell: <br/>
+: <br/>
 <img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 
 </p>
